@@ -1,2 +1,2 @@
 # hello-world
-First ever GitHub repository by bryank2242, for tutorial purposes.
+The first ever GitHub repository by bryank2242, for a tutorial into the open-source community.
